@@ -1,0 +1,41 @@
+.contact-section{
+     
+    align-items: center;
+    height: 600px;
+}
+
+.common-btn{
+    background: #F8F2FF;
+    color: #8828FF;
+    border: none;
+    width: 70%;
+    border-radius: 50px;
+    padding: 10px;
+}
+.contact-title{
+    color: #20184E;
+    
+    font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 68px;
+}
+.contact-para{
+    font-family: 'Space Grotesk';
+font-style: normal; 
+font-size: 15px;
+color: gray;
+}
+
+
+@media (max-width: 576px) { 
+   
+.contact-para{  
+font-size: 15px; 
+}
+
+
+.contact-title{ 
+font-size: 28px;
+}
+ }

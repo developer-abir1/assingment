@@ -1,0 +1,22 @@
+ .realChat-section{
+     position: relative;
+     height:600px;
+ }
+ .backround{
+     position: absolute;
+     right: 0;
+     top: -50%; 
+     
+
+ } 
+
+ 
+@media (min-width: 300px) { 
+   
+     
+    
+    
+    .contact-title{ 
+    font-size: 28px;
+    }
+     }

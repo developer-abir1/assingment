@@ -1,0 +1,12 @@
+.logo span{  
+    font-weight: 500;
+ color: #8828FF;
+}
+.logo1{
+    background: #8828FF;
+    color: white!important;
+    
+    border-radius: 50%;
+    margin-right: 5px;
+    padding: 2%;
+}
